@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #fa6131;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  @apply bg-white text-black;
+}
