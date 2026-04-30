@@ -14,7 +14,7 @@ import Contacto from './pages/Contacto';
 // Botón de WhatsApp flotante (Visible en todas las páginas)
 const WhatsAppBtn = () => (
   <a 
-    href="https://wa.me/5492990000000?text=Hola!%20Deseo%20realizar%20una%20consulta%20al%20Sindicato." 
+    href="https://wa.me/5492994483575?text=Hola!%20Deseo%20realizar%20una%20consulta%20al%20Sindicato." 
     target="_blank" 
     rel="noopener noreferrer"
     className="fixed bottom-6 right-6 z-[100] bg-[#25D366] p-4 rounded-full shadow-2xl hover:scale-110 transition-transform flex items-center justify-center border-2 border-white"
