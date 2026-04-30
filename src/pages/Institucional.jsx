@@ -3,9 +3,9 @@ import React from 'react';
 const Institucional = () => {
   return (
     <div className="bg-white min-h-screen">
-      <header className="bg-black py-20 px-8 text-center border-b-8 border-primary">
+      <header className="bg-primary py-20 px-8 text-center text-white border-b-8 border-black">
         <h1 className="text-white text-4xl md:text-6xl font-black uppercase italic">Nuestra Historia</h1>
-        <p className="text-primary font-bold uppercase tracking-widest mt-4">Personería Jurídica Nº 3244</p>
+        <p className="text-black font-bold uppercase tracking-widest mt-4">Personería Jurídica Nº 3244</p>
       </header>
 
       <section className="max-w-5xl mx-auto py-20 px-8">

@@ -62,7 +62,7 @@ const Navbar = () => {
           <div className="flex items-center gap-4">
             <ul className="hidden lg:flex gap-8 text-[11px] uppercase tracking-widest font-black items-center">
               <li><Link to="/" className="hover:text-black transition-colors">Inicio</Link></li>
-              <li><Link to="/institucional" className="hover:text-black transition-colors">Institución</Link></li>
+              <li><Link to="/institucional" className="hover:text-black transition-colors">Institucional</Link></li>
               <li><Link to="/contacto" className="hover:text-black transition-colors">Contacto</Link></li>
               <li>
                 <Link to="/afiliacion" className="bg-black text-white px-6 py-3 hover:bg-white hover:text-black transition-all shadow-xl border border-black">
@@ -89,7 +89,7 @@ const Navbar = () => {
       <div className={`lg:hidden overflow-hidden transition-all duration-500 ease-in-out bg-black ${isOpen ? 'max-h-screen opacity-100' : 'max-h-0 opacity-0'}`}>
         <ul className="flex flex-col text-center py-10 gap-8 text-sm uppercase tracking-[0.2em] font-black text-white">
           <li><Link to="/" onClick={closeMenu} className="hover:text-primary transition-colors block">Inicio</Link></li>
-          <li><Link to="/institucional" onClick={closeMenu} className="hover:text-primary transition-colors block">Institución</Link></li>
+          <li><Link to="/institucional" onClick={closeMenu} className="hover:text-primary transition-colors block">Institucional</Link></li>
           <li><Link to="/contacto" onClick={closeMenu} className="hover:text-primary transition-colors block">Contacto</Link></li>
           <li className="px-10 pt-4">
             <Link 

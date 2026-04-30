@@ -21,7 +21,7 @@ const Home = () => {
           
           {/* LADO IZQUIERDO: LOGO (Derecho y Transparente) */}
           <div className="w-full md:w-1/3 flex justify-center md:justify-end">
-            <div className="max-w-[150px] md:max-w-xs transition-all duration-500">
+            <div className="max-w-[150px] -mt-12 md:mt-0 md:max-w-xs transition-all duration-500">
               <img 
                 src="/images/logo/logo-nuevo-stp.png" 
                 alt="STPRSPA Logo" 
