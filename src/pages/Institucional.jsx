@@ -16,7 +16,7 @@ const Institucional = () => {
           </p>
           <div className="grid md:grid-cols-2 gap-12 not-italic">
             <div className="bg-gray-50 p-10 border-l-8 border-primary shadow-xl">
-              <h4 className="font-black uppercase text-xl mb-4">¿Por qué nacimos?</h4>
+              <h4 className="font-black uppercase text-xl mb-4">¿Por qué nacimos como sindicato?</h4>
               <p className="text-sm text-gray-600">
                 Rechazamos la figura del <strong>“responsable técnico decorativo”</strong>. 
                 Buscamos el respeto a los criterios técnicos y condiciones mínimas para ejercer con responsabilidad. 

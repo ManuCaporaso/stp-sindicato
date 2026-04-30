@@ -11,7 +11,7 @@ const Home = () => {
           <img 
             src="/images/hero.webp" 
             alt="Industria" 
-            className="w-full h-full object-cover opacity-80 grayscale"
+            className="w-full h-full object-cover opacity-50 grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-primary/85 via-black/70 to-black"></div>
         </div>

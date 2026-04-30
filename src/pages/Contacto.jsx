@@ -10,18 +10,13 @@ const Contacto = () => {
 
       <div className="max-w-7xl mx-auto py-20 px-8 grid lg:grid-cols-3 gap-12">
         <div className="lg:col-span-1 space-y-6">
-          <div className="bg-black p-10 text-white border-l-8 border-primary shadow-xl">
+          <div className="bg-white p-10 text-black border-l-8 border-black shadow-xl">
             <h3 className="font-black uppercase text-primary mb-4 tracking-widest">Sede Central</h3>
             <p className="font-serif text-lg">Neuquén Capital</p>
-            <p className="text-gray-400 text-sm italic">Calle de la Prevención 123</p>
-            <div className="mt-6 text-primary font-bold">0299-4445555</div>
+            <p className="text-gray-400 text-sm italic">Almirante Brown 20 - Oficina "A"</p>
+            <div className="mt-6 text-primary font-bold">0299-4483575</div>
           </div>
-          <div className="bg-white p-10 text-black border-l-8 border-black shadow-xl">
-            <h3 className="font-black uppercase text-primary mb-4 tracking-widest">Sede Cipolletti</h3>
-            <p className="font-serif text-lg">Río Negro</p>
-            <p className="text-gray-500 text-sm italic">Av. Protección Ambiental 987</p>
-            <div className="mt-6 text-black font-bold">0299-6667777</div>
-          </div>
+
         </div>
 
         <div className="lg:col-span-2 bg-white p-12 shadow-2xl border-t-8 border-primary">
