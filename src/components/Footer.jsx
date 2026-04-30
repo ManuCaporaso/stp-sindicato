@@ -61,8 +61,8 @@ const Footer = () => {
             </div>
             <div>
               <p className="text-[10px] font-black text-white/50 uppercase mb-1">WhatsApp</p>
-              <a href="tel:2996377640" className="block text-3xl font-black hover:text-black transition-all">
-                299 6377640
+              <a href="tel:2994483575" className="block text-3xl font-black hover:text-black transition-all">
+                299 4483575
               </a>
             </div>
           </div>

@@ -9,9 +9,9 @@ const Home = () => {
         {/* Fondo con Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=2070&auto=format&fit=crop" 
+            src="/images/hero.webp" 
             alt="Industria" 
-            className="w-full h-full object-cover opacity-30 grayscale"
+            className="w-full h-full object-cover opacity-80 grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-primary/85 via-black/70 to-black"></div>
         </div>

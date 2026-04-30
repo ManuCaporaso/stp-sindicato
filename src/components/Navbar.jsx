@@ -15,8 +15,8 @@ const Navbar = () => {
         <div className="flex items-center gap-4">
           <span className="text-primary font-black uppercase">Personería Jurídica N° 3244</span>
           <span className="hidden md:inline text-gray-700">|</span>
-          <a href="tel:2996377640" className="flex items-center gap-1 hover:text-primary transition-colors">
-            TEL: 299 6377640
+          <a href="tel:2994483575" className="flex items-center gap-1 hover:text-primary transition-colors">
+            TEL: 299 4483575
           </a>
         </div>
         <div className="hidden sm:block italic text-gray-500 lowercase">
